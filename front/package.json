@@ -14,7 +14,7 @@
     "element-ui": "^2.6.3",
     "highlight": "^0.2.4",
     "jwt-decode": "^2.2.0",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "mavon-editor": "^2.7.4",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
